@@ -1,4 +1,6 @@
 # SAGA_WS :
-The given project is basically for Saga Orchrestation Designment pattern. This is Axon server based project hence needed to download and maker Axon server up and running.
+The given project is basically based on Saga Event/Command handling. Here we have shown Orchrestation Designment pattern, used H2-console DB for saving records.
+
+This project requires Axon server hence one should need to download and maker Axon server up and running.
 
 https://developer.axoniq.io/download
